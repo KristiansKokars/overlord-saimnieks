@@ -1,4 +1,4 @@
-lion pink
+lion pink cyan
 tiger
 leopard
 turtle 
