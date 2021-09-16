@@ -1,4 +1,4 @@
-lion
+lion cyan
 tiger
 leopard
 turtle
